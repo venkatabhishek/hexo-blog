@@ -1,0 +1,38 @@
+body{
+    padding: 4rem;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+
+header > a {
+    margin: 5px
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.title{
+    text-transform: capitalize;
+}
+
+.home-url{
+    color: dodgerblue;
+}
+
+.posts{
+    margin-top: 40px;
+}
+
+.post{
+    margin: 60px;
+}
+
+.date{
+    color: grey;
+}
+
+.head-text{
+    margin-bottom: 60px;
+}
